@@ -5,4 +5,5 @@ We implemented the game from scratch then we set up the agent and environment to
 
 
 Demo video
+
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/yzDTEpBrPpk)
